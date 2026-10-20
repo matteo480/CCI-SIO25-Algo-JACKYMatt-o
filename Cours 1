@@ -53,11 +53,11 @@ Début
 
     Si age >= 6 Et age <= 7 Alors
         Écrire < Catégorie : Poussin >
-    SinonSi age >= 8 Et age <= 9 Alors
+      SinonSi age >= 8 Et age <= 9 Alors
         Écrire < Catégorie : Pupille >
-    SinonSi age >= 10 Et age <= 11 Alors
+      SinonSi age >= 10 Et age <= 11 Alors
         Écrire < Catégorie : Minime >
-    SinonSi age >= 12 Alors
+      SinonSi age >= 12 Alors
         Écrire < Catégorie : Cadet >
     Sinon
         Écrire < Aucun groupe ne correspond >
