@@ -31,3 +31,12 @@ Début :
 Lire n1
 écrire <Entrez un deuxième nombre: >
 Lire n2
+
+  Si n1 = 0 Ou n2 = 0 Alors
+        Écrire < Le produit est nul >
+    SinonSi (n1 > 0 Et n2 > 0) Ou (n1 < 0 Et n2 < 0) Alors
+        Écrire < Le produit est positif. >
+    Sinon
+        Écrire < Le produit est négatif. >
+  FinSi
+Fin
