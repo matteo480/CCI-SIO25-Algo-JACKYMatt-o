@@ -1,3 +1,4 @@
+
 Exercice 2.4
 
 Variable : 
@@ -16,3 +17,17 @@ Lire nombre
       écrire <le nombre est nul>
   FinSI
 Fin
+
+
+Exercice 2.5
+
+Variable : 
+n1 : reel
+n2 : reel
+
+Début : 
+
+écrire <Entrez un nombre : >
+Lire n1
+écrire <Entrez un deuxième nombre: >
+Lire n2
