@@ -1,0 +1,18 @@
+Exercice 2.4
+
+Variable : 
+nombre : reel
+
+Début:
+
+écrire <Entrez un combre : >
+Lire nombre
+
+  Si nombre > 0 alors
+      écrire <le nombre est positif>
+  SinonSi nombre < 0 alors
+      écrire <le nombre est négatif>
+  Sinon
+      écrire <le nombre est nul>
+  FinSI
+Fin
